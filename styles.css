@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Roboto", sans-serif;
+}
+
+body{
+    background-image: linear-gradient(to bottom, #080f1a, #040f17, #030e12, #050c0d, #080909);
+}
+
+.info{
+    position: fixed;
+    top: 0;
+    color: white;
+    padding: 30px;
+}
+
+.country{
+    transition: fill 0.3s;
+}
